@@ -15,6 +15,6 @@
 
 ## My github stats
 <div>
-<img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=dublado&show_icons=true&theme=tokyonight" alt="dublado" />
-<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dublado&layout=compact&langs_count=5&theme=tokyonight"/>
+<img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=dublado&show_icons=true&theme=tokyonight&count_private=true" alt="dublado" />
+<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dublado&layout=compact&langs_count=5&theme=tokyonight&count_private=true"/>
 <div/>
