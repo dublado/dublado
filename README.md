@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/thiagomachado/">
   <img alt="Thiago Machado's LinkedIn" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
-<a href="[https://medium.com/@dublado](https://medium.com/@dublado)">
+<a href="https://medium.com/@dublado">
  <img alt="Thiago Machado's Medium" width="100em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
